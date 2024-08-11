@@ -42,7 +42,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Ankit Kumar";
+            document.title = "Portfolio | Priyanshu Yadav";
             $("#favicon").attr("href", "assets/images/twitter profile pic.png");
         }
         else {
@@ -54,7 +54,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["full stack development", "web designing", "web development", "Machine Learning", "Data Science"],
+    strings: ["Front End development", "web designing", "web development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,

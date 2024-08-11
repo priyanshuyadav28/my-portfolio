@@ -53,7 +53,7 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Ankit Kumar";
+        document.title = "Experience | Portfolio Priyanshu Yadav";
         $("#favicon").attr("href","/assets/images/twitter profile pic.png");
     }
     else {

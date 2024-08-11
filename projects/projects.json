@@ -5,7 +5,7 @@
     "image": "Shop", 
     "category": "React.js",
     "links": {
-      "view": "https://github.com/Ankit3060/Weather-Prediction",
+      "view": "",
       "code": "https://github.com/priyanshuyadav28/ecommerce-webapp-react"
     }
   },
@@ -15,7 +15,7 @@
     "image": "",
     "category": "tinDog",
     "links": {
-      "view": "https://github.com/Ankit3060/ToDo-List-Version-2.0",
+      "view": "",
       "code": "https://github.com/priyanshuyadav28/top-courses/tree/master/top-course-starter/src"
     }
   },
@@ -25,7 +25,7 @@
     "image": "weatherWebsite",
     "category": "",
     "links": {
-      "view": "https://weather-app-beta-inky.vercel.app/",
+      "view": "",
       "code": "https://github.com/priyanshuyadav28/weatherApp"
     }
   },
@@ -35,7 +35,7 @@
     "image": "youtube",
     "category": "mern",
     "links": {
-      "view": "https://github.com/priyanshuyadav28/youtube-backend",
+      "view": "",
       "code": "https://github.com/priyanshuyadav28/youtube-backend"
     }
   },
@@ -45,7 +45,7 @@
     "image": "passwordGenerator2",
     "category": "basicweb",
     "links": {
-      "view": "https://password-generator-js-nine.vercel.app/",
+      "view": "",
       "code": "https://github.com/priyanshuyadav28/Password-Generator"
     }
   },
@@ -56,7 +56,7 @@
     "image": "tictac",
     "category": "basicweb",
     "links": {
-      "view": "https://tic-tac-toe-three-rho.vercel.app/",
+      "view": "",
       "code": "https://github.com/priyanshuyadav28/tic-tac-toe"
     }
   }
